@@ -1,6 +1,6 @@
 
 
-# Ticketing System
+# Ticketing System :)
 This is a ticket application for selling concert tickets to the public, organized by SoundWave Productions. The repository contains two folders: front-end and service. The front-end folder contains the source code for the web application, while the service folder contains the source code for the backend API, which is implemented using a serverless architecture.
 
 ## TechStack
